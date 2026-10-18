@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use EthnoQuant, please cite this software and the methodological sources for the indices used."
+title: "EthnoQuant: A Comprehensive Toolkit for Quantitative Ethnobotany Analysis"
+type: software
+authors:
+  - family-names: Mathur
+    given-names: Manish
+    affiliation: "ICAR-Central Arid Zone Research Institute, Jodhpur, India"
+version: 1.0.0-rc1
+abstract: "Research release candidate of an R Shiny quantitative ethnobotany toolkit."
+keywords:
+  - ethnobotany
+  - R Shiny
+  - multivariate analysis
+  - statistical analysis

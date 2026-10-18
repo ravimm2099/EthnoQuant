@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+*.Rproj
+.DS_Store
+Thumbs.db
+*.log
+private_data/
+raw_survey_data/
+*.sqlite
+*.db
