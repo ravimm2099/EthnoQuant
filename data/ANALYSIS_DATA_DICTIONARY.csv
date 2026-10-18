@@ -1,0 +1,18 @@
+analysis,data_type,required_columns,row_or_matrix_structure,example_file,app_window
+01 Study citations,Long/raw,"informant_id, species; optional family, use_category, use_type, ailment, plant_part, sex",One row per informant–species–use report,data/sample_citations.csv,"03 My study, 04 Results, 05 Charts"
+04 Habitat EIV: salience,Long,"species, salience",One species per row,data/sample_salience.csv,06 Habitat EIV
+04 Habitat EIV: abundance,Long,"habitat, species, individuals",One species–habitat combination per row,data/sample_habitat_counts.csv,06 Habitat EIV
+05 Group denominators,Summary,"sex, eligible_n",One group per row; include non-citers,data/sample_group_denominators.csv,07 Group comparison
+06b Performance / Purpose,Long/raw,"informant_id, species, ailment, use_type","One citation per row; ailment for IP, use_type for PC",data/ip_pc_sample.csv,08b Verified calculations
+06c Conservation priority,Species summary,"species, NSCE, NPE, RENISUS, ANVISA",One species per row; RENISUS and ANVISA binary 0/1,data/cpi_input_template.csv,08c CPI
+06d Species equitability,Long/raw,"informant_id, species",One informant–species report per row,data/evenness_template.csv,08d Evenness
+06d Cultural significance,Scored long,"species, use, quality, intensity, exclusivity",One species–use scored record per row,data/ics_scores_template.csv,08d ICS
+09 PCA,Wide numeric matrix,"sample_id, numeric variable columns",One sample per row; no missing numeric values,data/advanced/pca_matrix.csv,11 PCA
+09 Hierarchical clustering,Wide numeric matrix,"sample_id, numeric variable columns",One sample per row; no missing numeric values,data/advanced/pca_matrix.csv,11 Clustering
+09 CCA species,Wide abundance matrix,"sample_id, species abundance columns",Samples must match environment sample_id; nonnegative abundances,data/advanced/cca_species.csv,11 CCA
+09 CCA environment,Wide environment matrix,"sample_id, environmental numeric columns",Same sample_id values as CCA species matrix,data/advanced/cca_environment.csv,11 CCA
+09 Venn 2–5 sets,Long membership,"set, item",One set–item membership per row; repeated items across sets form intersections,data/advanced/venn_membership.csv,11 Venn
+10 Welch independent t,Long numeric,"group, value",At least two observations per group,data/advanced/two_groups.csv,12 Statistical tests
+10 Paired t,Long paired,"pair_id, group, value",Two matched groups with identical pair_id,data/advanced/paired_groups.csv,12 Statistical tests
+10 One-sample Z,Numeric observations,value,Known population sigma supplied in app,data/advanced/z_observations.csv,12 Statistical tests
+10 One-way ANOVA,Long numeric,"group, value",Independent observations grouped by factor,data/advanced/anova_groups.csv,12 Statistical tests

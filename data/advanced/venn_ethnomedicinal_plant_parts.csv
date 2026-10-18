@@ -1,0 +1,148 @@
+set,item
+-,Calotropis procera Ait. R. Br. Asclepiadaceae
+-,Capparis decidua (Forsk.) Edgew. Capparaceae
+Bark,Acacia nilotica (L.) Del. Mimosaceae
+Bark,Azadirachta indica A. Juss. Meliaceae
+Bark,Calotropis procera Ait. R. Br. Asclepiadaceae
+Bark,Ficus religiosa L. Moraceae
+Bark,Moringa concanensis* Nimmo Moringaceae
+Bark,Myristica fragrans* Houtt. Myristicaceae
+Bark,Prosopis cineraria (L.) Druce Mimosaceae
+Bark + Leaves,Tecomella undulata (Sm.) Seem. Bignoniaceae
+Flower,Azadirachta indica A. Juss. Meliaceae
+Flower,Butea monosperma* (Lamk.) Taub. Fabaceae
+Flower,Calotropis procera Ait. R. Br. Asclepiadaceae
+Flower,Cistanche tubulosa Wight Orobanchaceae
+Flower,Pulicaria crispa (Cass.) Benth.& Hook.f. Asteraceae
+Flower,Quercus infectoria* Olivier. Fagaceae
+Fruit,Azadirachta indica A. Juss. Meliaceae
+Fruit,Capsicum annum L. Solanaceae
+Fruit,Citrullus lanatus (Thunb.) Mats. & Nakai
+Fruit,Cocos nucifera* L. Palmaceae
+Fruit,Cucumis melo L. Cucurbitaceae
+Fruit,Helicteres isora* L. Sterculiaceae
+Fruit,Lagenaria siceraria (Molina) Standley Cucurbitaceae
+Fruit,Papaver somniferum* L. Papaveraceae
+Fruit,Pedalium murex* L. Pedaliaceae
+Fruit,Piper longum* L. Piperaceae
+Fruit,Prosopis cineraria (L.) Druce Mimosaceae
+Fruit,Psidium guajava L. Myrtaceae
+Fruit,Salvadora oleoides (Decne.) Salvadoraceae
+Fruit,Salvadora persica L. Salvadoraceae
+Fruit,Syzygium aromaticum* (L.) Merr. & Perry Myrtaceae
+Fruit,Tamarindus indica L. Ceasalpiniaceae
+Fruit,Terminalia chebula* Retz. Combretaceae
+Fruit,Tribulus terrestris L. Zygophyllaceae
+Fruit,Withania coagulense* (Stocks) Dunal Solanaceae
+Fruit,Ziziphus nummularia (Burm. f.) Wt Rhamnaceae CAZRI-11386
+Galls,Prosopis cineraria (L.) Druce Mimosaceae
+Galls,Ziziphus nummularia (Burm. f.) Wt Rhamnaceae CAZRI-11386
+Gum,Acacia nilotica (L.) Del. Mimosaceae
+Gum,Prosopis cineraria (L.) Druce Mimosaceae
+Gynostegium,Calotropis gigantea (L.) Br. Asclepiadaceae
+Inflorescence,Aerva pseudotomentosa Blatt. & Halb. Amaranthaceae
+Latex,Calotropis procera Ait. R. Br. Asclepiadaceae
+Latex,Euphorbia caducifolia Haines Euphorbiaceae
+Latex,Euphorbia granulata Forsk Euphorbiaceae
+Latex,Ficus bengalensis L. Moraceae
+Latex,Papaver somniferum* L. Papaveraceae
+Leaves,Acacia nilotica (L.) Del. Mimosaceae
+Leaves,Acacia senegal (L.) Willd. Mimosaceae
+Leaves,Aloe vera (L.) Webbf Berth Liliaceae
+Leaves,Amaranthus viridis (L.) Amaranthaceae
+Leaves,Azadirachta indica A. Juss. Meliaceae
+Leaves,Boerhavia diffusa L. Nyctaginaceae
+Leaves,Calligonum polygonoides L. Polygonaceae
+Leaves,Calotropis procera Ait. R. Br. Asclepiadaceae
+Leaves,Capparis decidua (Forsk.) Edgew. Capparaceae
+Leaves,Cassia angustifolia Vahl. Ceasalpiniaceae
+Leaves,Cleome viscosa L. Capparaceae
+Leaves,Clerodendrum phlomoidis Linn .f. Verbenaceae
+Leaves,Crinum asiaticum L. Amaryllidaceae
+Leaves,Cyamopsis tetragonoloba (L.) Taub. Fabaceae
+Leaves,Datura stramonium L. Solanaceae
+Leaves,Euphorbia granulata Forsk Euphorbiaceae
+Leaves,Ficus bengalensis L. Moraceae
+Leaves,Glycyrrhiza glabra* L. Fabaceae
+Leaves,Jasminum grandiflorum L. Oleaceae
+Leaves,Lawsonia inermis L. Lythraceae
+Leaves,Lycium barbatum L. Solanaceae
+Leaves,Majorana hortensis* Moench Lamiaceae
+Leaves,Maytenus senegalensis (Lamk.) Exell. Celastraceae
+Leaves,Ocimum sanctum L. Lamiaceae
+Leaves,Portulaca oleracea L. Portulacaceae
+Leaves,Prosopis juliflora (Swartz) D.C. Mimosaceae
+Leaves,Ricinus communis L. Euphorbiaceae
+Leaves,Salvadora oleoides (Decne.) Salvadoraceae
+Leaves,Salvadora persica L. Salvadoraceae
+Leaves,Tecomella undulata (Sm.) Seem. Bignoniaceae
+Leaves,Tephrosia purpurea Pers. Fabaceae
+Leaves,Ziziphus nummularia (Burm. f.) Wt Rhamnaceae CAZRI-11386
+Resin,Boswellia serrata* Colebr. Burseraceae
+Resin,Commiphora wightii (Arnott) Bhandari Burseraceae
+Resin,Ferula asafoetida* L. Apiaceae
+Rhizome,Curcuma amada* Roxb. Zingiberaceae
+Rhizome,Curcuma domestica* Val Zingiberaceae
+Rhizome,Zingiber officinale* Rosc. Zingiberaceae
+Root,Aerva pseudotomentosa Blatt. & Halb. Amaranthaceae
+Root,Berberis aristata* DC Berberidaceae
+Root,Boerhavia diffusa L. Nyctaginaceae
+Root,Citrullus colocynthis (L.) Schard. Cucurbitaceae
+Root,Citrullus fistulosus Stocks Cucurbitaceae
+Root,Convolvulus microphyllus Choisy Convolvulaceae
+Root,Crotalaria burhia Buch-Ham. Fabaceae
+Root,Cymbopogon jawarncusa (Jones) Schult. Poaceae
+Root,Datura stramonium L. Solanaceae
+Root,Fagonia cretica Burm. f. Zygophyllaceae
+Root,Moringa oleifera Lamk. Moringaceae
+Root,Ochthochloa compressa (Forsk.) Hilu Poaceae
+Root,Tephrosia purpurea Pers. Fabaceae
+Root,Trianthema portulacastrum L. Aizoaceae
+Root,Withania somnifera* (L.) Dunal Solanaceae
+Seed,Blepharis linearifolia Pers Acanthaceae
+Seed,Cicer arietinum L. Fabaceae
+Seed,Citrullus lanatus (Thunb.) Mats. & Nakai
+Seed,Corchorus tridens Linn. Tiliaceae
+Seed,Coriandrum sativum L. Apiaceae
+Seed,Cyperus rotundus L. Cyperaceae
+Seed,Foeniculum vulgare Mill. Apiaceae
+Seed,Indigofera cordifolia Heyne ex Roth Fabaceae
+Seed,Linum usitatissimum* L. Linaceae
+Seed,Oryza sativa* L. Poaceae
+Seed,Pennisetum typhoides (Burm.f.) Stapf & C.E. Hubb. Poaceae
+Seed,Piper nigrum* L. Piperaceae
+Seed,Pisum sativum L. Papilionaceae
+Seed,Plantago ovata Forsk. Plantaginaceae
+Seed,Ricinus communis L. Euphorbiaceae
+Seed,Sesamum orientale L. Pedaliaceae
+Seed,Sisymbrium irio L. Brassicaceae
+Seed,Solanum surattense Burm.f. Solanaceae
+Seed,Trachyspermum ammi* (L.) Sprex Apiaceae
+Seed,Trianthema portulacastrum L. Aizoaceae
+Seed,Tribulus terrestris L. Zygophyllaceae
+Seed,Trigonella foenum-graecum L. Fabaceae
+Seed,Vernonia anthelmintica* Willd. Asteraceae
+Seed,Ziziphus nummularia (Burm. f.) Wt Rhamnaceae CAZRI-11386
+Stem,Azadirachta indica A. Juss. Meliaceae
+Stem,Barleria acanthoides Vahl Acanthaceae
+Stem,Capparis decidua (Forsk.) Edgew. Capparaceae
+Stem,Leptadenia pyrotechnica (Forsk.) Decne. Asclepiadaceae
+Stem,Litsea glutinosa* (Lour.) C. B. Robins Lauraceae
+Stem,Santalum album* L. Santalaceae
+Stem,Withania somnifera* (L.) Dunal Solanaceae
+Stigma,Mesua ferrea* L. Clusiaceae
+Stigma,Syzygium aromaticum* (L.) Merr. & Perry Myrtaceae
+Thorns,Cenchrus biflorus Roxb. Poaceae
+Whole plant,Calligonum polygonoides L. Polygonaceae
+Whole plant,Cenchrus biflorus Roxb. Poaceae
+Whole plant,Eragrostis minor Host. Poaceae
+Whole plant,Euphorbia granulata Forsk Euphorbiaceae
+Whole plant,Evolvulus alsinoides (L.) Linn. Convolvulaceae
+Whole plant,Fagonia cretica Burm. f. Zygophyllaceae
+Whole plant,Phellorinia inquinons* Berk. Agaricaceae
+Whole plant,Pulicaria crispa (Cass.) Benth.& Hook.f. Asteraceae
+Whole plant,Solanum surattense Burm.f. Solanaceae
+Whole plant,Tecomella undulata (Sm.) Seem. Bignoniaceae
+seed,Corchorus depressus (L.) Christensen Tiliaceae
+seed,Plantago ovata Forsk. Plantaginaceae
+seed,Solanum surattense Burm.f. Solanaceae

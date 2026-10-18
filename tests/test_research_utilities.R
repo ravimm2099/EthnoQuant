@@ -1,0 +1,8 @@
+source('R_ethnoquant.R')
+stopifnot(eq_safe_filename('My survey / 2026')=='My_survey_2026')
+stopifnot(eq_safe_filename('!!!')=='_')
+source('R_ethnoquant.R')
+d <- read.csv('data/sample_citations.csv',stringsAsFactors=FALSE)
+stopifnot(nrow(eq_validate(d,6))==nrow(d))
+stopifnot(length(unique(d$informant_id))<=6)
+cat('Module utility and input tests passed\n')

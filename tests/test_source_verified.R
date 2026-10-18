@@ -1,0 +1,5 @@
+source('R_ethnoquant.R')
+x <- data.frame(species=c('A','A','B','B'),ailment=c('x','y','x','x'),use_type=c('food','medicine','food','food'))
+a <- eq_source_performance_index(x); stopifnot(nrow(a)==3, all(a$IP %in% 0:3))
+b <- eq_source_purpose_consensus(x); stopifnot(abs(b$PC[b$species=='A']-0.25)<1e-10, abs(b$PC[b$species=='B']-1)<1e-10)
+cat('Source-calculation tests passed\n')

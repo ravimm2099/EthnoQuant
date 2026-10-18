@@ -1,0 +1,11 @@
+informant_id,species,family,use_category,use_type,ailment,plant_part,collection_site,collection_period,preparation,icd_chapter
+I01,Azadirachta indica,Meliaceae,Medicine,Diarrhoea,Digestive,Leaf,Wild,Monsoon,Decoction,11
+I02,Azadirachta indica,Meliaceae,Medicine,Diarrhoea,Digestive,Leaf,Wild,Monsoon,Decoction,11
+I03,Azadirachta indica,Meliaceae,Medicine,Fever,Fever,Leaf,Wild,Summer,Decoction,1
+I04,Azadirachta indica,Meliaceae,Medicine,Fever,Fever,Leaf,Wild,Summer,Decoction,1
+I01,Ocimum tenuiflorum,Lamiaceae,Medicine,Cough,Respiratory,Leaf,Garden,Winter,Infusion,10
+I03,Ocimum tenuiflorum,Lamiaceae,Medicine,Cough,Respiratory,Leaf,Garden,Winter,Infusion,10
+I05,Ocimum tenuiflorum,Lamiaceae,Medicine,Fever,Fever,Leaf,Garden,Summer,Infusion,1
+I02,Curcuma longa,Zingiberaceae,Medicine,Wound,Skin,Rhizome,Market,Year-round,Paste,12
+I04,Curcuma longa,Zingiberaceae,Medicine,Wound,Skin,Rhizome,Market,Year-round,Paste,12
+I06,Curcuma longa,Zingiberaceae,Food,Spice,Food,Rhizome,Market,Year-round,Powder,

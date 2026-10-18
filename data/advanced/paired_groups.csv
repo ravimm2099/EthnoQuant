@@ -1,0 +1,17 @@
+pair_id,group,value
+I01,Before,4
+I02,Before,5
+I03,Before,6
+I04,Before,3
+I05,Before,7
+I06,Before,4
+I07,Before,6
+I08,Before,5
+I01,After,5
+I02,After,6
+I03,After,8
+I04,After,4
+I05,After,7
+I06,After,6
+I07,After,7
+I08,After,6

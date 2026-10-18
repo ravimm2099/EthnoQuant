@@ -1,0 +1,7 @@
+source('R_ethnoquant.R')
+x <- data.frame(species=c('a','b'),NSCE=c(16,12),NPE=c(110,56),RENISUS=c(0,1),ANVISA=c(0,1))
+y <- eq_campos_cpi(x)
+stopifnot(abs(y$CPI[y$species=='a']-2)<1e-12)
+stopifnot(abs(y$CPI[y$species=='b']-(12/16+56/110+1))<1e-12)
+tryCatch({eq_campos_cpi(transform(x,RENISUS=c(NA,1)));stop('Missing data accepted')},error=function(e)stopifnot(grepl('missing',conditionMessage(e),ignore.case=TRUE)))
+cat('CPI tests passed\n')

@@ -1,0 +1,70 @@
+number,index,abbreviation,formula_or_method,verification_status
+1,Informant Consensus Factor,FIC,(Nur-Nt)/(Nur-1),ready for testing
+2,Use Value,UV,sum_i U_is/N_s,ready for testing
+3,Relative Use Value,RUV_i,PROVISIONAL: (1/n) sum_s (UV_is/UV_s),hold - source equation
+4,Use-value for one species,UVc,sum_i U_is/n_s,ready for testing
+5,Species use-value for one informant,"UV_is,event",sum_e U_ise/N_is,ready for testing
+6,Fidelity Level,FL,100*Np/N,ready for testing
+7,Use Value Index,UVS,PROVISIONAL: sum_i UV_is/n_s,hold - denominator
+8,Informant Agreement Ratio,IAR,(Ur-Npu)/(Ur-1),ready for testing
+9,Relative Importance,RI,RI_raw=PH/max(PH)+BS/max(BS); RI_pct=50*RI_raw,ready for testing
+10,Cultural Importance Index,CI,CI_s=(1/N)sum_c UR_sc,ready for testing
+11,Importance Value,IVs,n_important_s / N,Implementable; one response per informant/species
+12,Total Species Equitability,SEtot,SEtot = (1/sum_s p_s^2)/S; p_s = species report share,source equation verified; calculator added; runtime testing pending
+13,Use Consensus Value,UCs,2*n_useful_s/N - 1,Corrected; conditional on binary coding
+14,Author Citation Consensus,Author citation %,100*A_citing/A_total,Implementable; citation unit must be author
+15,Consensus Index,Citation count,Number of distinct informants citing species,Count implementable; index name/source interpretation verify
+16,Consensus for Plant Part,CPP,C_part/C_all_parts,Implementable conditional on citation unit
+17,Consensus for Substitutes,CVS,C_substitute/C_all_substitutes,Implementable conditional on citation unit
+18,Consensus for Collection Site,CCS,C_site/C_all_sites,Implementable conditional on citation unit
+19,Consensus for Manner of Usage,CMU,C_manner/C_all_manners,Implementable conditional on citation unit
+20,Consensus for Collection Period,CTC,C_period/C_all_periods,Implementable conditional on citation unit
+21,Consensus Value for Use-Types (CUT),,Ambiguous: (TU/Ut)/S versus TU/(Ut*S); do not enable without source equation,HOLD: original formula and meaning of S needed
+22,Cultural Value Index (CV),,CV=(NU_s/NC)*(FC_s/N)*Σ_u(UR_su/N); FC_s is distinct informants citing species,Provisional: formula inferred from worked example; verify original
+23,Disease Consensus Index (DCI),,No faithful reconstruction possible from variable definitions,HOLD: original equation and questionnaire/scoring needed
+24,Equitability (E),,"H=-Σ_s p_s ln(p_s); E=H/ln(R), R>=2, p_s=citations_s/total",Ready for computational tests; undefined if R<2
+25,Index of Ethnobotanical Knowledge (M_g),,M_g=(1/n_g)Σ_{i in group g} V_i; scoring of V_i must be defined,Conditional: user must define/validate knowledge scoring rubric
+26,Informant Diversity Value (ID_s),,"p_is=r_is/Σ_j r_js; ID_s=1/Σ_i p_is², range [1,k] for k positive contributors",Ready for computational tests; undefined if no reports
+27,Informant Equitability Value (IE_s),,"IE_s=ID_s/k_s, where k_s=number of informants with positive reports; [1/k_s,1]",Conditional: verify source defines IDmax=k; ready for computational tests
+28,Intra-specific Use Value (IUV),,"IUV_{s,p,u}=specific use reports(s,p,u)/all use reports(s,p)",Ready for computational tests with explicit citation counting
+29,Mean Rank of Usefulness,,"MR_{s,c}=(1/N_c)Σ_i rank_{i,s,c}; Total_s=Σ_c MR_{s,c}",Conditional: define missing responses and 0–2 rubric
+30,Family Use Value (FUV),,"FUV_f=(Σ_{s in f} UV_s)/S_f, where S_f=number of included species in family f",Corrected denominator; ready for computational tests
+31,Medicinal species vs family size (MSPE),,predicted medicinal count = a + b * total species in family; residual = observed - predicted,Corrected missing multiplication and inconsistent MSPE/MPSPE/FPSPE names; source attribution unverified
+32,Quality Use Value (QUV),,QUV_is = (sum over events e and uses u of quality_score_iseu)/n_is; QUV_s = sum_i QUV_is/n_s,Equations missing in plain text; reconstructed from narrative; confirm original
+33,Quality Use Agreement Value (QUAV),,QUAV_s = QUV_s * IAR_s,Formula clear; species-specific IAR definition and data basis need confirmation
+34,Overall Use Value (OUV),,"OUV_(s,p,u) = PPV_(s,p)*IUV_(s,p,u) = SU_(s,p,u)/total_RU_s; alternative Guerrero index separate",Two distinct published approaches conflated; implement separately
+35,Performance Index (IP),,"P1=C1/C2; P2=C3/C4; D=P1-P2; IP=0 if D<=0, 1 if 0<D<=1/3, 2 if 1/3<D<=2/3, 3 if D>2/3",Source equation checked; calculator available; runtime testing pending
+36,Plant Part Value (PPV),,"PPV_(s,p) = RU_(s,p)/sum_p RU_(s,p)",Corrected missing division slash; ready for computational tests
+37,Purpose Consensus (PC),,PC_s = (sum_u (n_su / sum_v n_sv)^2) / S_s,Source equation checked; calculator available; runtime testing pending
+38,Relative Frequency of Citation (RFC),,RFC_s = FC_s/N,Mathematically checked; original equation missing in pasted text
+39,Relative Importance (RI: versatility),,RI_s = NUC_s/max(NUC) + NT_s/max(NT),Distinct from Formula 9 (medicinal properties and body systems); do not merge
+40,Relative Importance Index (RI: citation/category),,RI_s = (FC_s/max(FC) + NC_s/max(NC))/2,Reconstructed from narrative and worked example; check original equation
+41,Remedy Importance Value,IV_remedy,"4 if >=2 communities; otherwise 3 if >=3 reports, 2 if 2, 1 if 1; undefined if 0",Provisional: counting rule needs source check
+42,Species Equitability Value,SE_i,SEi = (1/sum_s p_is^2)/S_i; p_is = informant species report share,source equation verified; calculator added; runtime testing pending
+43,Syndromic Importance Value,SIV,Original equation missing; do not compute,HOLD: original equation missing
+44,Total Species Diversity,SD_tot,SD_tot = 1 / sum_s(p_s^2) [candidate],Provisional: confirm original equation
+45,Total Value of Ethno-species,V_e,V_e = CV_e + PV_e + EV_e (only with commensurate scaling),HOLD: scale and definitions inconsistent
+46,Use Equitability Value,UE_s,"UE_s = UD_s / UD_s,max",Provisional: verify UD definition
+47,Use Value (major/minor scoring),UV_s (weighted),"UV_s = sum_i(sum_u w_u)/N; w=1 major,0.5 minor [if chosen]",HOLD: source attribution and scoring protocol
+48,Family Use Value,UV_f,UV_f = sum_{s in family} UV_s / n_f,Ready for tests; alias of 30
+49,Informant Species Use Value,UV_is,UV_is = sum_e U_ise / n_is,Ready for tests; overlaps Formula 5
+50,Use Value within Category,UV_c,UV_c = sum_{s in category} UV_s / n_c,Ready for tests with declared scope
+51,Use Value by Sex,,"UV_{s,g}=sum_i U_{is}/N_g",Conditional
+52,Use Diversity Value,,UD_s=1/sum_c(p_sc^2); p_sc=r_sc/sum_c r_sc,Ready for testing
+53,Use Diversity / category share,,UD_c=U_c/U_total,Ready for testing
+54,"Cultural Significance Index, modified",,CSI_s=CF_s*sum_u(i_su*e_su*c_su); CF_s=citations_s/max_t citations_t,Conditional
+55,Index of Cultural Significance,,ICS_s = sum_u quality_su * intensity_su * exclusivity_su,conditional: calculator added; researcher scoring protocol required; runtime testing pending
+56,Cultural Food Significance Index,,CFSI=QI*AI*FUI*PUI*MFFI*TSAI*FMRI*10^-2,Conditional
+57,Edible Mushroom Cultural Significance Index,,EMCSI=QI*(PAI+FUI+TSAI+MFFI+KTI+HI+EI),Conditional
+58,Ethnobotanical Knowledge transmission model,,OK_ijv=alpha+beta*PK_ijv+gamma*SK_ijv+theta*CK_ijv+delta*D_ijv+village effects+error [inferred],Hold: source equation
+59,Index of Conservation Priority,,HEI=CI+HDI+HMI; WHI=HEI*WF; full ICP equation missing,Hold: composite equation
+60,Medicinal Plant Conservation Prioritization,,"IVI=f(UVI,SI) unknown; source says UVI based on n*q and SI based on SR,NR",Hold: composite equation
+61,Modified Conservation Importance Index,IVI,RI + SI; SI definition requires source,HOLD: sensitivity computation unclear
+62,Local Conservation Priority Index,LCPI,CR + DA + RD (supplied scoring),Conditional: scoring thresholds
+63,Conservation Priority Index,IPC,UL + DU + SE + FCC + DR + FR (scores),Conditional: scoring thresholds
+64,Knowledge Sharing Index,KSI,Original equation missing,HOLD
+65,Ethnoecological Importance Value,EIV,sum(salience_s * n_hs / N_s),Ready for testing
+66,Relational Efficacy,RE,Original equation missing,HOLD
+67,Interviewee Use Contribution,ID,Ux / Ut,Ready for testing
+68,Global Ethnobotanical Knowledge,GIEK,CVR + CPF + CRG + CRS + CRU,Conditional: scoring rubric
+69,Medicinal Application Value,MAV,distinct ICD chapters / specified ICD chapter count,Ready for testing

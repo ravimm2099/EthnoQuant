@@ -1,0 +1,8 @@
+source('R_ethnoquant.R')
+d <- data.frame(Respondent=c('A','B'),`Scientific Name`=c('Plant a','Plant b'),check.names=FALSE)
+stopifnot(eq_guess_column(names(d),'informant_id')=='Respondent')
+stopifnot(eq_guess_column(names(d),'species')=='Scientific Name')
+x <- eq_map_columns(d,list(informant_id='Respondent',species='Scientific Name'))
+stopifnot(nrow(x)==2,all(x$species==c('Plant a','Plant b')),all(is.na(x$family)))
+stopifnot(inherits(try(eq_map_columns(d,list(informant_id='Respondent',species='Respondent')),silent=TRUE),'try-error'))
+cat('Module column mapping assertions passed\n')

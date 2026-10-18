@@ -1,0 +1,773 @@
+set,item
+Respiration,Abrus precatorious
+Respiration,Abutilon indicum
+Respiration,Acacia nilotica
+Respiration,Acacia senegal
+Respiration,Achyranthies aspera
+Respiration,Adhatoda vasica
+Respiration,Aegel marmelos
+Respiration,Aloe vera
+Respiration,Amaranthus spinosus
+Respiration,Andrographic paniculata
+Respiration,Aregemone mexicana
+Respiration,Asparagus racemosus
+Respiration,Azadirachta indica
+Respiration,Balanites aegyptiaca
+Respiration,Barleria prionitis
+Respiration,Blepharis sindica
+Respiration,Boerhavia diffusa
+Respiration,Boswellia serrata
+Respiration,Butea monosperma
+Respiration,Calligonum polygonoides
+Respiration,Calotropis procera
+Respiration,Capparis decidua
+Respiration,Cassia angustifolia
+Respiration,Cassia fistula
+Respiration,Catharanthus roseus
+Respiration,Commiphora wightii
+Respiration,Crotalaria burhia
+Respiration,Cynodon dactylon
+Respiration,Datura mental
+Respiration,Echinops echinatus
+Respiration,Eclipta prostrata
+Respiration,Emblica officinalis
+Respiration,Ephedra foliata
+Respiration,Euphorbia caducifolia
+Respiration,Euphorbia hirta
+Respiration,Evovulus alsinoides
+Respiration,Fagonia indica
+Respiration,Ficus religiosa
+Respiration,Glycyrrhiza glabra
+Respiration,Grewia tenex
+Respiration,Hibiscus rosa-sinensis
+Respiration,Holarrhina antidysentrica
+Respiration,Lawsonia inermis
+Respiration,Majorana hortensis
+Respiration,Mimosa pudica
+Respiration,Moringa oleifera
+Respiration,Nyctanthes arbor-tristris
+Respiration,Ocimum sanctum
+Respiration,Opuntia elatior
+Respiration,Peganum harmala
+Respiration,Pergularia daemia )
+Respiration,Pulicaria crispa
+Respiration,Punica granatum
+Respiration,Salvadora oleoides
+Respiration,salvadora persica
+Respiration,Sida cordifolia
+Respiration,Ssisymbrium irio
+Respiration,solanum nigrum
+Respiration,solanum surattense
+Respiration,Sphaeranthus indicus
+Respiration,Tamarindus indica
+Respiration,Tecomella undulata
+Respiration,Tephrosia purpurea
+Respiration,Trigonella foenum graecum
+Respiration,Tylophora indica
+Respiration,Urginea indica
+Respiration,Vernonia cinerea
+Respiration,Vitex negundo
+Respiration,Withania somifera
+Respiration,Ziziphus mauritiana
+Respiration,Ziziphus nummularia
+Respiration,Vetiveria zizanoides
+Respiration,Cressia critica
+Respiration,Dalbergia sissoo
+Respiration,Grewia tiliaefolia
+Respiration,Chloris virgata
+Respiration,Lycium barbarum
+Respiration,Mimosa hamata
+Respiration,solanum xanthcarpum
+Respiration,Terminalia arjuna
+Respiration,Artemisia annua
+Respiration,Cordia mixa
+Respiration,Cymbopogon citratus
+Respiration,Desmostachya bipinnata
+Respiration,Heliotropium indicum
+Respiration,Leucas aspera
+Respiration,Polygela senega
+Digestion,Abrus precatorious
+Digestion,Abutilon indicum
+Digestion,Acacia senegal
+Digestion,Achyranthies aspera
+Digestion,Adhatoda vasica
+Digestion,Aegel marmelos
+Digestion,Albizia lebbeck
+Digestion,Aloe vera
+Digestion,Amaranthus spinosus
+Digestion,Andrographic paniculata
+Digestion,Aregemone mexicana
+Digestion,Aristolochia bracteolata
+Digestion,Asparagus racemosus
+Digestion,Azadirachta indica
+Digestion,Balanites aegyptiaca
+Digestion,Boerhavia diffusa
+Digestion,Boswellia serrata
+Digestion,Butea monosperma
+Digestion,Calligonum polygonoides
+Digestion,Calotropis procera
+Digestion,Cardiospermum halicacabum
+Digestion,Cassia angustifolia
+Digestion,Cassia fistula
+Digestion,Cassia occidentalis
+Digestion,Catharanthus roseus
+Digestion,Cissus quadrangularis
+Digestion,Citrullus colocynths
+Digestion,Citrullus lanatus
+Digestion,Clemoe viscosa
+Digestion,Clerodendrum phlomoides
+Digestion,Cocculus hirsutus
+Digestion,Commiphora wightii
+Digestion,Convolvulus microphyllus
+Digestion,Corchorus depressus
+Digestion,Cucumis callosus
+Digestion,Cynodon dactylon
+Digestion,Cyperus rotundus
+Digestion,Datura mental
+Digestion,Echinops echinatus
+Digestion,Eclipta prostrata
+Digestion,Emblica officinalis
+Digestion,Euphorbia caducifolia
+Digestion,Euphorbia hirta
+Digestion,Evovulus alsinoides
+Digestion,Fagonia indica
+Digestion,Ficus religiosa
+Digestion,Fumaria indica
+Digestion,Glycyrrhiza glabra
+Digestion,Grewia tenex
+Digestion,Hibiscus rosa-sinensis
+Digestion,Holarrhina antidysentrica
+Digestion,Jatropha curcas
+Digestion,Majorana hortensis
+Digestion,Maytenus emarginata
+Digestion,Mimosa pudica
+Digestion,Mollugo cerviana
+Digestion,Moringa oleifera
+Digestion,Mucuna pruriens
+Digestion,Murraya koenigii
+Digestion,Ocimum sanctum
+Digestion,Opuntia elatior
+Digestion,Pedalium murex
+Digestion,Peganum harmala
+Digestion,Pergularia daemia )
+Digestion,Phyllanthus fraternus
+Digestion,Plantago ovata
+Digestion,Portulaca oleraceae
+Digestion,Prosopis cineraria
+Digestion,Punica granatum
+Digestion,Ricinus communis
+Digestion,salvadora persica
+Digestion,Sarcostemma acidum
+Digestion,Sida cordifolia
+Digestion,solanum nigrum
+Digestion,solanum surattense
+Digestion,Sphaeranthus indicus
+Digestion,Tamarindus indica
+Digestion,Tephrosia purpurea
+Digestion,Tinospora cordifolia
+Digestion,Tianthema portulacastrum
+Digestion,Tribulis terrestris
+Digestion,Trigonella foenum graecum
+Digestion,Tylophora indica
+Digestion,Urginea indica
+Digestion,Vernonia cinerea
+Digestion,Vitex negundo
+Digestion,Withania somifera
+Digestion,Ziziphus mauritiana
+Digestion,Zygophyllum simplex
+Digestion,Vetiveria zizanoides
+Digestion,Ficus bengalensis
+Digestion,Leptadenia reticulata
+Digestion,Chenopodium album
+Digestion,Dalbergia sissoo
+Digestion,Grewia tiliaefolia
+Digestion,Cyprus scarisous
+Digestion,Corchorus trilocuris
+Digestion,Grewia populifolia
+Digestion,Mimosa hamata
+Digestion,Saccgaraum spontaneum
+Digestion,Terminalia arjuna
+Digestion,Anogeissus pendula
+Digestion,Cordia mixa
+Digestion,Cymbopogon citratus
+Digestion,Cynodon dactylon
+Digestion,Desmostachya bipinnata
+Digestion,Heliotropium indicum
+Digestion,Lantana camara
+Digestion,Leucas aspera
+Digestion,Mimosa pudica
+Digestion,Polygela senega
+Reproduction,Abrus precatorious
+Reproduction,Abutilon indicum
+Reproduction,Achyranthies aspera
+Reproduction,Aloe vera
+Reproduction,Amaranthus spinosus
+Reproduction,Andrographic paniculata
+Reproduction,Argyeria nervosa
+Reproduction,Aristolochia bracteolata
+Reproduction,Asparagus racemosus
+Reproduction,Balanites aegyptiaca
+Reproduction,Barleria prionitis
+Reproduction,Blepharis sindica
+Reproduction,Boerhavia diffusa
+Reproduction,Butea monosperma
+Reproduction,Cardiospermum halicacabum
+Reproduction,Cassia occidentalis
+Reproduction,Catharanthus roseus
+Reproduction,Cissus quadrangularis
+Reproduction,Citrullus lanatus
+Reproduction,Cocculus hirsutus
+Reproduction,Corchorus depressus
+Reproduction,Cyperus rotundus
+Reproduction,Echinops echinatus
+Reproduction,Eclipta prostrata
+Reproduction,Euphorbia caducifolia
+Reproduction,Euphorbia hirta
+Reproduction,Evovulus alsinoides
+Reproduction,Ficus religiosa
+Reproduction,Hibiscus rosa-sinensis
+Reproduction,Holarrhina antidysentrica
+Reproduction,Indigofera linnaei
+Reproduction,Moringa oleifera
+Reproduction,Mucuna pruriens
+Reproduction,Neurada procumbens
+Reproduction,Opuntia elatior
+Reproduction,Pedalium murex
+Reproduction,Peganum harmala
+Reproduction,Pergularia daemia )
+Reproduction,Phyllanthus amarus
+Reproduction,Plantago ovata
+Reproduction,Prosopis cineraria
+Reproduction,Punica granatum
+Reproduction,Ricinus communis
+Reproduction,salvadora persica
+Reproduction,Sida cordifolia
+Reproduction,solanum nigrum
+Reproduction,Sphaeranthus indicus
+Reproduction,Tribulis terrestris
+Reproduction,Withania somifera
+Reproduction,Ziziphus mauritiana
+Reproduction,Ziziphus nummularia
+Reproduction,Blepharis edulis
+Reproduction,Celosia argentea
+Reproduction,Chenopodium album
+Reproduction,Cressia critica
+Reproduction,Dalbergia sissoo
+Reproduction,Grewia tiliaefolia
+Reproduction,Chloris virgata
+Reproduction,Cyprus scarisous
+Reproduction,Corchorus trilocuris
+Reproduction,Grewia populifolia
+Reproduction,Lycium barbarum
+Reproduction,Lycium chinese
+Reproduction,Mimosa hamata
+Reproduction,Saccgaraum spontaneum
+Reproduction,solanum xanthcarpum
+Reproduction,Terminalia arjuna
+Reproduction,Cordia mixa
+Reproduction,Cymbopogon citratus
+Reproduction,Desmostachya bipinnata
+Reproduction,Heliotropium indicum
+Fever,Abrus precatorious
+Fever,Abutilon indicum
+Fever,Acacia senegal
+Fever,Aegel marmelos
+Fever,Aloe vera
+Fever,Amaranthus spinosus
+Fever,Andrographic paniculata
+Fever,Aregemone mexicana
+Fever,Aristolochia bracteolata
+Fever,Azadirachta indica
+Fever,Barleria prionitis
+Fever,Boerhavia diffusa
+Fever,Butea monosperma
+Fever,Calotropis procera
+Fever,Capparis decidua
+Fever,Cassia fistula
+Fever,Cassia occidentalis
+Fever,Citrullus colocynths
+Fever,Clemoe viscosa
+Fever,Clerodendrum phlomoides
+Fever,Cocculus hirsutus
+Fever,Cocculus pendulus
+Fever,Datura mental
+Fever,Euphorbia caducifolia
+Fever,Evovulus alsinoides
+Fever,Fagonia indica
+Fever,Ficus religiosa
+Fever,Fumaria indica
+Fever,Hibiscus rosa-sinensis
+Fever,Lawsonia inermis
+Fever,Maytenus emarginata
+Fever,Nyctanthes arbor-tristris
+Fever,Ocimum sanctum
+Fever,Peganum harmala
+Fever,Phyllanthus amarus
+Fever,Phyllanthus fraternus
+Fever,Pulicaria crispa
+Fever,Sida cordifolia
+Fever,Ssisymbrium irio
+Fever,solanum nigrum
+Fever,Sphaeranthus indicus
+Fever,Tamarindus indica
+Fever,Tecomella undulata
+Fever,Tinospora cordifolia
+Fever,Trigonella foenum graecum
+Fever,Vernonia cinerea
+Fever,Vitex negundo
+Fever,Withania somifera
+Fever,Ziziphus mauritiana
+Fever,Ziziphus nummularia
+Fever,Vetiveria zizanoides
+Fever,Dalbergia sissoo
+Fever,Grewia tiliaefolia
+Fever,Corchorus trilocuris
+Fever,Mimosa hamata
+Fever,Saccgaraum spontaneum
+Fever,Artemisia annua
+Fever,Cordia mixa
+Fever,Desmostachya bipinnata
+Fever,Heliotropium indicum
+Fever,Lantana camara
+Fever,Leucas aspera
+Fever,Mimosa pudica
+Blood and Hematopoietic Organ,Aegel marmelos
+Blood and Hematopoietic Organ,Aloe vera
+Blood and Hematopoietic Organ,Amaranthus spinosus
+Blood and Hematopoietic Organ,Andrographic paniculata
+Blood and Hematopoietic Organ,Argyeria nervosa
+Blood and Hematopoietic Organ,Azadirachta indica
+Blood and Hematopoietic Organ,Blepharis sindica
+Blood and Hematopoietic Organ,Boerhavia diffusa
+Blood and Hematopoietic Organ,Butea monosperma
+Blood and Hematopoietic Organ,Cassia fistula
+Blood and Hematopoietic Organ,Catharanthus roseus
+Blood and Hematopoietic Organ,Cissus quadrangularis
+Blood and Hematopoietic Organ,Cocculus hirsutus
+Blood and Hematopoietic Organ,Cocculus pendulus
+Blood and Hematopoietic Organ,Commiphora wightii
+Blood and Hematopoietic Organ,Corchorus depressus
+Blood and Hematopoietic Organ,Eclipta prostrata
+Blood and Hematopoietic Organ,Emblica officinalis
+Blood and Hematopoietic Organ,Euphorbia caducifolia
+Blood and Hematopoietic Organ,Fagonia indica
+Blood and Hematopoietic Organ,Ficus religiosa
+Blood and Hematopoietic Organ,Fumaria indica
+Blood and Hematopoietic Organ,Glycyrrhiza glabra
+Blood and Hematopoietic Organ,Hibiscus rosa-sinensis
+Blood and Hematopoietic Organ,Jatropha curcas
+Blood and Hematopoietic Organ,Majorana hortensis
+Blood and Hematopoietic Organ,Maytenus emarginata
+Blood and Hematopoietic Organ,Mollugo cerviana
+Blood and Hematopoietic Organ,Moringa oleifera
+Blood and Hematopoietic Organ,Mucuna pruriens
+Blood and Hematopoietic Organ,Murraya koenigii
+Blood and Hematopoietic Organ,Portulaca oleraceae
+Blood and Hematopoietic Organ,Sida cordifolia
+Blood and Hematopoietic Organ,solanum nigrum
+Blood and Hematopoietic Organ,Sphaeranthus indicus
+Blood and Hematopoietic Organ,Tecomella undulata
+Blood and Hematopoietic Organ,Tinospora cordifolia
+Blood and Hematopoietic Organ,Trigonella foenum graecum
+Blood and Hematopoietic Organ,Vernonia cinerea
+Blood and Hematopoietic Organ,Withania somifera
+Blood and Hematopoietic Organ,Ziziphus mauritiana
+Blood and Hematopoietic Organ,Vetiveria zizanoides
+Blood and Hematopoietic Organ,Ficus bengalensis
+Blood and Hematopoietic Organ,Celosia argentea
+Blood and Hematopoietic Organ,Chenopodium album
+Blood and Hematopoietic Organ,Cressia critica
+Blood and Hematopoietic Organ,Grewia tiliaefolia
+Blood and Hematopoietic Organ,Lycium chinese
+Blood and Hematopoietic Organ,Mimosa hamata
+Blood and Hematopoietic Organ,Saccgaraum spontaneum
+Blood and Hematopoietic Organ,solanum xanthcarpum
+Blood and Hematopoietic Organ,Terminalia arjuna
+Blood and Hematopoietic Organ,Anogeissus pendula
+Central Nervous System,Abrus precatorious
+Central Nervous System,Abutilon indicum
+Central Nervous System,Adhatoda vasica
+Central Nervous System,Aegel marmelos
+Central Nervous System,Albizia lebbeck
+Central Nervous System,Aloe vera
+Central Nervous System,Amaranthus spinosus
+Central Nervous System,Andrographic paniculata
+Central Nervous System,Asparagus racemosus
+Central Nervous System,Boerhavia diffusa
+Central Nervous System,Calotropis procera
+Central Nervous System,Cardiospermum halicacabum
+Central Nervous System,Cassia fistula
+Central Nervous System,Catharanthus roseus
+Central Nervous System,Cissus quadrangularis
+Central Nervous System,Citrullus colocynths
+Central Nervous System,Citrullus lanatus
+Central Nervous System,Cocculus pendulus
+Central Nervous System,Crotalaria burhia
+Central Nervous System,Echinops echinatus
+Central Nervous System,Eclipta prostrata
+Central Nervous System,Euphorbia caducifolia
+Central Nervous System,Evovulus alsinoides
+Central Nervous System,Holarrhina antidysentrica
+Central Nervous System,Indigofera linnaei
+Central Nervous System,Moringa oleifera
+Central Nervous System,Mucuna pruriens
+Central Nervous System,Murraya koenigii
+Central Nervous System,Nyctanthes arbor-tristris
+Central Nervous System,Ocimum sanctum
+Central Nervous System,Pedalium murex
+Central Nervous System,Peganum harmala
+Central Nervous System,Prosopis cineraria
+Central Nervous System,Ricinus communis
+Central Nervous System,salvadora persica
+Central Nervous System,Sarcostemma acidum
+Central Nervous System,Sida cordifolia
+Central Nervous System,solanum surattense
+Central Nervous System,Tinospora cordifolia
+Central Nervous System,Vitex negundo
+Central Nervous System,Withania somifera
+Central Nervous System,Vetiveria zizanoides
+Central Nervous System,Dalbergia sissoo
+Central Nervous System,Cyprus scarisous
+Central Nervous System,Corchorus trilocuris
+Central Nervous System,Saccgaraum spontaneum
+Genito-Urinary System,Abrus precatorious
+Genito-Urinary System,Abutilon indicum
+Genito-Urinary System,Acacia nilotica
+Genito-Urinary System,Achyranthies aspera
+Genito-Urinary System,Aloe vera
+Genito-Urinary System,Amaranthus spinosus
+Genito-Urinary System,Argyeria nervosa
+Genito-Urinary System,Asparagus racemosus
+Genito-Urinary System,Azadirachta indica
+Genito-Urinary System,Blepharis sindica
+Genito-Urinary System,Boerhavia diffusa
+Genito-Urinary System,Boswellia serrata
+Genito-Urinary System,Butea monosperma
+Genito-Urinary System,Cardiospermum halicacabum
+Genito-Urinary System,Cassia occidentalis
+Genito-Urinary System,Catharanthus roseus
+Genito-Urinary System,Citrullus lanatus
+Genito-Urinary System,Clemoe viscosa
+Genito-Urinary System,Clerodendrum phlomoides
+Genito-Urinary System,Cocculus hirsutus
+Genito-Urinary System,Commiphora wightii
+Genito-Urinary System,Crotalaria burhia
+Genito-Urinary System,Cynodon dactylon
+Genito-Urinary System,Cyperus rotundus
+Genito-Urinary System,Echinops echinatus
+Genito-Urinary System,Emblica officinalis
+Genito-Urinary System,Fumaria indica
+Genito-Urinary System,Glycyrrhiza glabra
+Genito-Urinary System,Hibiscus rosa-sinensis
+Genito-Urinary System,Indigofera linnaei
+Genito-Urinary System,Majorana hortensis
+Genito-Urinary System,Mimosa pudica
+Genito-Urinary System,Moringa oleifera
+Genito-Urinary System,Mucuna pruriens
+Genito-Urinary System,Murraya koenigii
+Genito-Urinary System,Ocimum sanctum
+Genito-Urinary System,Pedalium murex
+Genito-Urinary System,Phyllanthus fraternus
+Genito-Urinary System,Portulaca oleraceae
+Genito-Urinary System,salvadora persica
+Genito-Urinary System,Sida cordifolia
+Genito-Urinary System,solanum nigrum
+Genito-Urinary System,solanum surattense
+Genito-Urinary System,Tephrosia purpurea
+Genito-Urinary System,Tinospora cordifolia
+Genito-Urinary System,Tianthema portulacastrum
+Genito-Urinary System,Tribulis terrestris
+Genito-Urinary System,Vernonia cinerea
+Genito-Urinary System,Vitex negundo
+Genito-Urinary System,Withania somifera
+Genito-Urinary System,Vetiveria zizanoides
+Genito-Urinary System,Chenopodium album
+Genito-Urinary System,Cressia critica
+Genito-Urinary System,Dalbergia sissoo
+Genito-Urinary System,Chloris virgata
+Genito-Urinary System,Cyprus scarisous
+Genito-Urinary System,Lycium barbarum
+Genito-Urinary System,Mimosa hamata
+Genito-Urinary System,Saccgaraum spontaneum
+Genito-Urinary System,solanum xanthcarpum
+Genito-Urinary System,Terminalia arjuna
+Genito-Urinary System,Anogeissus pendula
+Genito-Urinary System,Desmostachya bipinnata
+Genito-Urinary System,Heliotropium indicum
+Genito-Urinary System,Mimosa pudica
+Circulatory System,Boerhavia diffusa
+Circulatory System,Capparis decidua
+Circulatory System,Clemoe viscosa
+Circulatory System,Clerodendrum phlomoides
+Circulatory System,Datura mental
+Circulatory System,Emblica officinalis
+Circulatory System,Ephedra foliata
+Circulatory System,Ficus religiosa
+Circulatory System,Hibiscus rosa-sinensis
+Circulatory System,Moringa oleifera
+Circulatory System,Neurada procumbens
+Circulatory System,Urginea indica
+Circulatory System,Vetiveria zizanoides
+Circulatory System,Chenopodium album
+Circulatory System,Cyprus scarisous
+Circulatory System,Terminalia arjuna
+Sensory System,Abutilon indicum
+Sensory System,Acacia nilotica
+Sensory System,Acacia senegal
+Sensory System,Achyranthies aspera
+Sensory System,Albizia lebbeck
+Sensory System,Aloe vera
+Sensory System,Aregemone mexicana
+Sensory System,Asparagus racemosus
+Sensory System,Azadirachta indica
+Sensory System,Boerhavia diffusa
+Sensory System,Calligonum polygonoides
+Sensory System,Cocculus hirsutus
+Sensory System,Cynodon dactylon
+Sensory System,Cyperus rotundus
+Sensory System,Echinops echinatus
+Sensory System,Emblica officinalis
+Sensory System,Fumaria indica
+Sensory System,Lawsonia inermis
+Sensory System,Murraya koenigii
+Sensory System,Ocimum sanctum
+Sensory System,Opuntia elatior
+Sensory System,Ricinus communis
+Sensory System,Sphaeranthus indicus
+Sensory System,Tamarindus indica
+Sensory System,Tinospora cordifolia
+Sensory System,Tianthema portulacastrum
+Sensory System,Vernonia cinerea
+Sensory System,Zygophyllum simplex
+Sensory System,Celosia argentea
+Sensory System,Chenopodium album
+Sensory System,Dalbergia sissoo
+Sensory System,Anogeissus pendula
+Sensory System,Cynodon dactylon
+"Endocrine Gland, Metabolism and Nutrition",Aloe vera
+"Endocrine Gland, Metabolism and Nutrition",Andrographic paniculata
+"Endocrine Gland, Metabolism and Nutrition",Blepharis sindica
+"Endocrine Gland, Metabolism and Nutrition",Clemoe viscosa
+"Endocrine Gland, Metabolism and Nutrition",Commiphora wightii
+"Endocrine Gland, Metabolism and Nutrition",Corchorus depressus
+"Endocrine Gland, Metabolism and Nutrition",Eclipta prostrata
+"Endocrine Gland, Metabolism and Nutrition",Fumaria indica
+"Endocrine Gland, Metabolism and Nutrition",Holarrhina antidysentrica
+"Endocrine Gland, Metabolism and Nutrition",Maytenus emarginata
+"Endocrine Gland, Metabolism and Nutrition",Moringa oleifera
+"Endocrine Gland, Metabolism and Nutrition",Portulaca oleraceae
+"Endocrine Gland, Metabolism and Nutrition",Ricinus communis
+"Endocrine Gland, Metabolism and Nutrition",solanum nigrum
+"Endocrine Gland, Metabolism and Nutrition",solanum surattense
+"Endocrine Gland, Metabolism and Nutrition",Tephrosia purpurea
+"Endocrine Gland, Metabolism and Nutrition",Tinospora cordifolia
+"Endocrine Gland, Metabolism and Nutrition",Tianthema portulacastrum
+"Endocrine Gland, Metabolism and Nutrition",Vitex negundo
+"Endocrine Gland, Metabolism and Nutrition",solanum xanthcarpum
+"Endocrine Gland, Metabolism and Nutrition",Terminalia arjuna
+Skin and Sub-Cutanuous System,Abrus precatorious
+Skin and Sub-Cutanuous System,Abutilon indicum
+Skin and Sub-Cutanuous System,Acacia nilotica
+Skin and Sub-Cutanuous System,Acacia senegal
+Skin and Sub-Cutanuous System,Achyranthies aspera
+Skin and Sub-Cutanuous System,Adhatoda vasica
+Skin and Sub-Cutanuous System,Aegel marmelos
+Skin and Sub-Cutanuous System,Albizia lebbeck
+Skin and Sub-Cutanuous System,Aloe vera
+Skin and Sub-Cutanuous System,Amaranthus spinosus
+Skin and Sub-Cutanuous System,Aregemone mexicana
+Skin and Sub-Cutanuous System,Argyeria nervosa
+Skin and Sub-Cutanuous System,Aristolochia bracteolata
+Skin and Sub-Cutanuous System,Asparagus racemosus
+Skin and Sub-Cutanuous System,Azadirachta indica
+Skin and Sub-Cutanuous System,Balanites aegyptiaca
+Skin and Sub-Cutanuous System,Barleria prionitis
+Skin and Sub-Cutanuous System,Blepharis sindica
+Skin and Sub-Cutanuous System,Boswellia serrata
+Skin and Sub-Cutanuous System,Butea monosperma
+Skin and Sub-Cutanuous System,Capparis decidua
+Skin and Sub-Cutanuous System,Cardiospermum halicacabum
+Skin and Sub-Cutanuous System,Cassia angustifolia
+Skin and Sub-Cutanuous System,Cassia fistula
+Skin and Sub-Cutanuous System,Cassia occidentalis
+Skin and Sub-Cutanuous System,Cissus quadrangularis
+Skin and Sub-Cutanuous System,Citrullus colocynths
+Skin and Sub-Cutanuous System,Clerodendrum phlomoides
+Skin and Sub-Cutanuous System,Cocculus hirsutus
+Skin and Sub-Cutanuous System,Cocculus pendulus
+Skin and Sub-Cutanuous System,Commiphora wightii
+Skin and Sub-Cutanuous System,Cynodon dactylon
+Skin and Sub-Cutanuous System,Cyperus rotundus
+Skin and Sub-Cutanuous System,Datura mental
+Skin and Sub-Cutanuous System,Echinops echinatus
+Skin and Sub-Cutanuous System,Eclipta prostrata
+Skin and Sub-Cutanuous System,Euphorbia caducifolia
+Skin and Sub-Cutanuous System,Euphorbia hirta
+Skin and Sub-Cutanuous System,Evovulus alsinoides
+Skin and Sub-Cutanuous System,Fagonia indica
+Skin and Sub-Cutanuous System,Ficus religiosa
+Skin and Sub-Cutanuous System,Fumaria indica
+Skin and Sub-Cutanuous System,Glycyrrhiza glabra
+Skin and Sub-Cutanuous System,Grewia tenex
+Skin and Sub-Cutanuous System,Hibiscus rosa-sinensis
+Skin and Sub-Cutanuous System,Holarrhina antidysentrica
+Skin and Sub-Cutanuous System,Jatropha curcas
+Skin and Sub-Cutanuous System,Lawsonia inermis
+Skin and Sub-Cutanuous System,Mimosa pudica
+Skin and Sub-Cutanuous System,Mollugo cerviana
+Skin and Sub-Cutanuous System,Mucuna pruriens
+Skin and Sub-Cutanuous System,Murraya koenigii
+Skin and Sub-Cutanuous System,Nyctanthes arbor-tristris
+Skin and Sub-Cutanuous System,Ocimum sanctum
+Skin and Sub-Cutanuous System,Peganum harmala
+Skin and Sub-Cutanuous System,Pergularia daemia )
+Skin and Sub-Cutanuous System,Phyllanthus amarus
+Skin and Sub-Cutanuous System,Phyllanthus fraternus
+Skin and Sub-Cutanuous System,Portulaca oleraceae
+Skin and Sub-Cutanuous System,Pulicaria crispa
+Skin and Sub-Cutanuous System,Ricinus communis
+Skin and Sub-Cutanuous System,salvadora persica
+Skin and Sub-Cutanuous System,Sida cordifolia
+Skin and Sub-Cutanuous System,solanum nigrum
+Skin and Sub-Cutanuous System,solanum surattense
+Skin and Sub-Cutanuous System,Sphaeranthus indicus
+Skin and Sub-Cutanuous System,Tecomella undulata
+Skin and Sub-Cutanuous System,Tephrosia purpurea
+Skin and Sub-Cutanuous System,Tianthema portulacastrum
+Skin and Sub-Cutanuous System,Trigonella foenum graecum
+Skin and Sub-Cutanuous System,Tylophora indica
+Skin and Sub-Cutanuous System,Urginea indica
+Skin and Sub-Cutanuous System,Vernonia cinerea
+Skin and Sub-Cutanuous System,Vitex negundo
+Skin and Sub-Cutanuous System,Withania somifera
+Skin and Sub-Cutanuous System,Ziziphus nummularia
+Skin and Sub-Cutanuous System,Vetiveria zizanoides
+Skin and Sub-Cutanuous System,Ficus bengalensis
+Skin and Sub-Cutanuous System,Chenopodium album
+Skin and Sub-Cutanuous System,Cressia critica
+Skin and Sub-Cutanuous System,Dalbergia sissoo
+Skin and Sub-Cutanuous System,Grewia tiliaefolia
+Skin and Sub-Cutanuous System,Corchorus trilocuris
+Skin and Sub-Cutanuous System,Mimosa hamata
+Skin and Sub-Cutanuous System,Terminalia arjuna
+Skin and Sub-Cutanuous System,Anogeissus pendula
+Skin and Sub-Cutanuous System,Cordia mixa
+Skin and Sub-Cutanuous System,Cymbopogon citratus
+Skin and Sub-Cutanuous System,Cynodon dactylon
+Skin and Sub-Cutanuous System,Desmostachya bipinnata
+Skin and Sub-Cutanuous System,Heliotropium indicum
+Skin and Sub-Cutanuous System,Leucas aspera
+Skin and Sub-Cutanuous System,Mimosa pudica
+"Skeletal, Muscle and Connective Tissues",Abrus precatorious
+"Skeletal, Muscle and Connective Tissues",Abutilon indicum
+"Skeletal, Muscle and Connective Tissues",Acacia nilotica
+"Skeletal, Muscle and Connective Tissues",Acacia senegal
+"Skeletal, Muscle and Connective Tissues",Achyranthies aspera
+"Skeletal, Muscle and Connective Tissues",Adhatoda vasica
+"Skeletal, Muscle and Connective Tissues",Aegel marmelos
+"Skeletal, Muscle and Connective Tissues",Albizia lebbeck
+"Skeletal, Muscle and Connective Tissues",Aloe vera
+"Skeletal, Muscle and Connective Tissues",Amaranthus spinosus
+"Skeletal, Muscle and Connective Tissues",Andrographic paniculata
+"Skeletal, Muscle and Connective Tissues",Aregemone mexicana
+"Skeletal, Muscle and Connective Tissues",Argyeria nervosa
+"Skeletal, Muscle and Connective Tissues",Aristolochia bracteolata
+"Skeletal, Muscle and Connective Tissues",Asparagus racemosus
+"Skeletal, Muscle and Connective Tissues",Azadirachta indica
+"Skeletal, Muscle and Connective Tissues",Barleria acanthoides
+"Skeletal, Muscle and Connective Tissues",Barleria prionitis
+"Skeletal, Muscle and Connective Tissues",Blepharis sindica
+"Skeletal, Muscle and Connective Tissues",Boerhavia diffusa
+"Skeletal, Muscle and Connective Tissues",Boswellia serrata
+"Skeletal, Muscle and Connective Tissues",Butea monosperma
+"Skeletal, Muscle and Connective Tissues",Calligonum polygonoides
+"Skeletal, Muscle and Connective Tissues",Calotropis procera
+"Skeletal, Muscle and Connective Tissues",Capparis decidua
+"Skeletal, Muscle and Connective Tissues",Cardiospermum halicacabum
+"Skeletal, Muscle and Connective Tissues",Cassia angustifolia
+"Skeletal, Muscle and Connective Tissues",Cassia fistula
+"Skeletal, Muscle and Connective Tissues",Cissus quadrangularis
+"Skeletal, Muscle and Connective Tissues",Citrullus colocynths
+"Skeletal, Muscle and Connective Tissues",Citrullus lanatus
+"Skeletal, Muscle and Connective Tissues",Clemoe viscosa
+"Skeletal, Muscle and Connective Tissues",Clerodendrum phlomoides
+"Skeletal, Muscle and Connective Tissues",Cocculus hirsutus
+"Skeletal, Muscle and Connective Tissues",Cocculus pendulus
+"Skeletal, Muscle and Connective Tissues",Commiphora wightii
+"Skeletal, Muscle and Connective Tissues",Convolvulus microphyllus
+"Skeletal, Muscle and Connective Tissues",Corchorus depressus
+"Skeletal, Muscle and Connective Tissues",Crotalaria burhia
+"Skeletal, Muscle and Connective Tissues",Cucumis callosus
+"Skeletal, Muscle and Connective Tissues",Cynodon dactylon
+"Skeletal, Muscle and Connective Tissues",Cyperus rotundus
+"Skeletal, Muscle and Connective Tissues",Datura mental
+"Skeletal, Muscle and Connective Tissues",Echinops echinatus
+"Skeletal, Muscle and Connective Tissues",Eclipta prostrata
+"Skeletal, Muscle and Connective Tissues",Emblica officinalis
+"Skeletal, Muscle and Connective Tissues",Ephedra foliata
+"Skeletal, Muscle and Connective Tissues",Euphorbia caducifolia
+"Skeletal, Muscle and Connective Tissues",Euphorbia hirta
+"Skeletal, Muscle and Connective Tissues",Evovulus alsinoides
+"Skeletal, Muscle and Connective Tissues",Glycyrrhiza glabra
+"Skeletal, Muscle and Connective Tissues",Hibiscus rosa-sinensis
+"Skeletal, Muscle and Connective Tissues",Holarrhina antidysentrica
+"Skeletal, Muscle and Connective Tissues",Indigofera linnaei
+"Skeletal, Muscle and Connective Tissues",Jatropha curcas
+"Skeletal, Muscle and Connective Tissues",Lawsonia inermis
+"Skeletal, Muscle and Connective Tissues",Majorana hortensis
+"Skeletal, Muscle and Connective Tissues",Maytenus emarginata
+"Skeletal, Muscle and Connective Tissues",Mollugo cerviana
+"Skeletal, Muscle and Connective Tissues",Moringa oleifera
+"Skeletal, Muscle and Connective Tissues",Mucuna pruriens
+"Skeletal, Muscle and Connective Tissues",Neurada procumbens
+"Skeletal, Muscle and Connective Tissues",Nyctanthes arbor-tristris
+"Skeletal, Muscle and Connective Tissues",Ocimum sanctum
+"Skeletal, Muscle and Connective Tissues",Opuntia elatior
+"Skeletal, Muscle and Connective Tissues",Peganum harmala
+"Skeletal, Muscle and Connective Tissues",Pergularia daemia )
+"Skeletal, Muscle and Connective Tissues",Phyllanthus fraternus
+"Skeletal, Muscle and Connective Tissues",Plantago ovata
+"Skeletal, Muscle and Connective Tissues",Portulaca oleraceae
+"Skeletal, Muscle and Connective Tissues",Prosopis cineraria
+"Skeletal, Muscle and Connective Tissues",Pulicaria crispa
+"Skeletal, Muscle and Connective Tissues",Punica granatum
+"Skeletal, Muscle and Connective Tissues",Ricinus communis
+"Skeletal, Muscle and Connective Tissues",Salvadora oleoides
+"Skeletal, Muscle and Connective Tissues",salvadora persica
+"Skeletal, Muscle and Connective Tissues",Sarcostemma acidum
+"Skeletal, Muscle and Connective Tissues",Sida cordifolia
+"Skeletal, Muscle and Connective Tissues",solanum nigrum
+"Skeletal, Muscle and Connective Tissues",solanum surattense
+"Skeletal, Muscle and Connective Tissues",Tamarindus indica
+"Skeletal, Muscle and Connective Tissues",Tephrosia purpurea
+"Skeletal, Muscle and Connective Tissues",Tinospora cordifolia
+"Skeletal, Muscle and Connective Tissues",Tianthema portulacastrum
+"Skeletal, Muscle and Connective Tissues",Tribulis terrestris
+"Skeletal, Muscle and Connective Tissues",Trigonella foenum graecum
+"Skeletal, Muscle and Connective Tissues",Tylophora indica
+"Skeletal, Muscle and Connective Tissues",Urginea indica
+"Skeletal, Muscle and Connective Tissues",Vernonia cinerea
+"Skeletal, Muscle and Connective Tissues",Vitex negundo
+"Skeletal, Muscle and Connective Tissues",Withania somifera
+"Skeletal, Muscle and Connective Tissues",Ziziphus mauritiana
+"Skeletal, Muscle and Connective Tissues",Vetiveria zizanoides
+"Skeletal, Muscle and Connective Tissues",Ficus bengalensis
+"Skeletal, Muscle and Connective Tissues",Leptadenia reticulata
+"Skeletal, Muscle and Connective Tissues",Blepharis edulis
+"Skeletal, Muscle and Connective Tissues",Chenopodium album
+"Skeletal, Muscle and Connective Tissues",Cressia critica
+"Skeletal, Muscle and Connective Tissues",Dalbergia sissoo
+"Skeletal, Muscle and Connective Tissues",Grewia tiliaefolia
+"Skeletal, Muscle and Connective Tissues",Corchorus trilocuris
+"Skeletal, Muscle and Connective Tissues",Lycium chinese
+"Skeletal, Muscle and Connective Tissues",Mimosa hamata
+"Skeletal, Muscle and Connective Tissues",Saccgaraum spontaneum
+"Skeletal, Muscle and Connective Tissues",solanum xanthcarpum
+"Skeletal, Muscle and Connective Tissues",Terminalia arjuna
+"Skeletal, Muscle and Connective Tissues",Anogeissus pendula
+"Skeletal, Muscle and Connective Tissues",Cordia mixa
+"Skeletal, Muscle and Connective Tissues",Cymbopogon citratus
+"Skeletal, Muscle and Connective Tissues",Cynodon dactylon
+"Skeletal, Muscle and Connective Tissues",Desmostachya bipinnata
+"Skeletal, Muscle and Connective Tissues",Heliotropium indicum
+"Skeletal, Muscle and Connective Tissues",Lantana camara

@@ -1,0 +1,30 @@
+record_id,species,family,use_category,use_type,ailment,plant_part,preparation
+101,Acacia nilotica,Mimosaceae,Medicine,Blood clot,Blood pressure,Bark,Fresh bark is soaked in water for 15 days. Then it is mashed and its extract is given orally to prevent blood clot.
+102,Acacia nilotica,Mimosaceae,Medicine,Fracture,Bone,Bark,Crushed bark is boiled in water. A cotton cloth soaked in this filtrates tied on fractured bone for early healing and pain relief. It is repeated many times a day.
+103,Acacia nilotica,Mimosaceae,Medicine,Debility,CNS,Leaves,One teaspoon powdered leaves is taken orally with goat's fresh milk twice a day as a tonic.
+104,Acacia nilotica,Mimosaceae,Medicine,Debility,CNS,Gum,"Sweet cakes are prepared by mixing its gum with sugar, butter oil, 'wheat' flour (Triticum aestivum) and dry fruits. It is given to mother after delivery as a tonic."
+105,Acacia nilotica,Mimosaceae,Medicine,Wound,Skin,Bark,Aqueous paste of bark is applied on wounds for early healing.
+106,Acacia senegal,Mimosaceae,Medicine,Debility,CNS,Leaves,Fresh leaves are boiled in water and its filtrate is taken orally as debility.
+107,Aerva pseudotomentosa,Amaranthaceae,Medicine,Antidote,CNS,Inflorescence,Fresh inflorescence is boiled in water and its filtrate is kept for sometime to make it lukeworm. In scorpion bite the bit portion of the affected person is dipped in this water for half an hour to neutralise the poisonous effect.
+108,Aerva pseudotomentosa,Amaranthaceae,Medicine,Eye pain,Eyes,Inflorescence,Aqueous paste of inflorescence is applied over eyelids and is tied with a cloth to get relief in eye pain.
+109,Aerva pseudotomentosa,Amaranthaceae,Medicine,Flatulence,Digestion,Inflorescence,Pillows and mattresses are stuffed with its inflorescence and used by the patient to sleep over it for a few days.
+110,Aerva pseudotomentosa,Amaranthaceae,Medicine,Kidney pain,Urinary problem,Root,Crushed dried roots are boiled in water and its filtrate is taken orally.
+111,Aerva pseudotomentosa,Amaranthaceae,Medicine,Stomachache,Digestion,Root,Fresh roots are chewed to get relief in stomachache.
+112,Aerva pseudotomentosa,Amaranthaceae,Medicine,Dysentary,Digestion,Inflorescence,Inflorescence is boiled in water and its filtrate is taken orally.
+113,Aloe vera,Liliaceae,Medicine,Flatulence,Digestion,Leaves,Leaves are cooked as vegetable and consumed as such for few days.
+114,Aloe vera,Liliaceae,Medicine,Flatulence,Digestion,Leaves,"A sweet dish is prepared by mixing its fresh leaves with butter oil, sugar and 'wheat' flour (Triticum aestivum) and is consumed for a few days."
+115,Aloe vera,Liliaceae,Medicine,Inflammation,Digestion,Leaves,A longitudinal slit is made in leaf and 'haldi' (Curcuma domestica) powder is filled in it. It is tied as a bandage on affected portion
+116,Aloe vera,Liliaceae,Medicine,Ring worm,Skin,Leaves,Mode of adminstration is same as described in respect of inflammation.
+117,Aloe vera,Liliaceae,Medicine,Tumour,Blood,Leaves,Mode of adminstration is same as described in respect of inflammation.
+118,Amaranthus viridis,Amaranthaceae,Medicine,Constipation,Digestion,Leaves,Fresh leaves and seeds of 'ajwain' (Trachyspermum ammi) are boiled in water. Its filtrate is taken orally.
+119,Amaranthus viridis,Amaranthaceae,Medicine,Debility,CNS,Leaves,Syrup is made from its leaves and given to children. It is locally called as 'janam ghunti'.
+120,Amaranthus viridis,Amaranthaceae,Medicine,Flatulence,Digestion,Leaves,Leaves are boiled in water. A pinch of 'kali mirch' (Piper nigrum) is added to its filtrate and taken orally.
+121,Amaranthus viridis,Amaranthaceae,Medicine,Stomachache,Digestion,Leaves,Leaves cooked as vegetable are consumed for a few days.
+122,Azadirachta indica,Meliaceae,Medicine,Cut,Skin,Leaves,Aqueous paste of leaves is applied on boils to hasten suppuration.
+123,Azadirachta indica,Meliaceae,Medicine,Eczema,Skin,Bark,Aqueous paste of bark is applied on affected portion.
+124,Azadirachta indica,Meliaceae,Medicine,Constipation,Digestion,Flower,A few fresh flowers are soaked in water in earthern pot for a whole night. Next day sugar is mixed in it and consumed.
+125,Azadirachta indica,Meliaceae,Medicine,Skin irritation,Skin irritation,Leaves,Leaves are boiled in water and its filtrate is used for bathing to cure skin irritation.
+126,Azadirachta indica,Meliaceae,Medicine,Diabetes,Diabetes,Fruit,Powdered mixture is prepared by mixing 4-5 dried fruits and 2-3 pieces of 'kali mirch' (Piper nigrum). One teaspoon of this mixture is taken orally twice a day for a few days.
+127,Barleria acanthoides,Acanthaceae,Medicine,Dental problem,Dental problem,Stem,Fresh tender branches are used as tooth brush to cure toothache and pyrrahoea
+128,Berberis aristata,Berberidaceae,Medicine,Kidney problem,Circulatory,Root,Mixture its powdered roots with potassium nitrate (salt) is taken with curd.
+129,Blepharis linearifolia,Acanthaceae,Medicine,Impotency,Reproduction,Seed,"7 g powdered seed is taken orally with milk for seven days. Oily food, jaggery and sour things are avoided in this duration."

@@ -1,0 +1,9 @@
+informant_id,species,ailment,use_type
+I01,Acacia senegal,Cough,Medicinal
+I02,Acacia senegal,Cough,Medicinal
+I03,Acacia senegal,Fever,Medicinal
+I01,Prosopis cineraria,Fever,Medicinal
+I02,Prosopis cineraria,Skin condition,Medicinal
+I04,Prosopis cineraria,Fever,Medicinal
+I03,Ziziphus mauritiana,Digestion,Food
+I05,Ziziphus mauritiana,Digestion,Medicinal
