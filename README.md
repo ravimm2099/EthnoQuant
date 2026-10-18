@@ -1,6 +1,9 @@
 # EthnoQuant — GitHub and Zenodo unified source release candidate
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23448854.svg)](https://doi.org/10.5281/zenodo.23448854)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23449127.svg)](https://doi.org/10.5281/zenodo.23449127)
+
+
+
   
 
 **EthnoQuant** is an R Shiny toolkit for quantitative ethnobotany, including citation-based descriptive indices, research metadata, exploratory multivariate analyses (PCA, CCA, clustering, set intersections) and statistical tests (t, Z, ANOVA).
